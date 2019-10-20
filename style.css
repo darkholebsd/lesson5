@@ -1,0 +1,29 @@
+﻿.q1 {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.q2 {
+  color: #ff0000;
+  font-weight: bold;
+}
+
+div {
+  color: #0000cc;
+  background-color: #cccccc;
+  font-family: arial;
+}
+
+.q3 {
+  margin-left: 30%;
+}
+
+.q4 {
+  text-align: right;
+  margin-right: 30%;
+}
+
+h2 {
+  text-align: center;
+  color: green;
+}
